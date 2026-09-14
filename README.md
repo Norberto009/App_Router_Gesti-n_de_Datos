@@ -1,6 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+ Copia el archivo de ejemplo de variables de entorno:
+```bash
+   cp .env.example .env
+```
 
 First, install dependencies for next.js run this comands in the proyect:
 ```bash
@@ -21,7 +25,7 @@ image         |  text     |
 status        |  text     |
 species       |  text     |
 
-s run the development server:
+third run the development server:
 
 ```bash
 npm run dev
