@@ -5,4 +5,4 @@ const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY! ;
 
 //Creamos la conexion con supabase
 
-export const supabase = createClient(supabaseUrl,supabaseKey);S
+export const supabase = createClient(supabaseUrl,supabaseKey);
